@@ -4,6 +4,9 @@
 This iOS app is specifically designed for research purposes, aimed at measuring and managing anxiety levels. It uniquely combines a tremor test with binaural beats therapy, providing a novel tool for individuals and researchers in the study of anxiety management techniques.
 
 ## Features
+## App Demonstration Video
+Here is a video demonstrating how the app works and its features:
+[![App Demo Video](http://img.youtube.com/vi/URL/0.jpg)](http://www.youtube.com/watch?v=URL)
 
 ### Tremor Test
 - **Objective**: To measure anxiety levels through the analysis of hand tremors.
