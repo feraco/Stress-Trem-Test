@@ -6,7 +6,7 @@ This iOS app is specifically designed for research purposes, aimed at measuring 
 ## Features
 ## App Demonstration Video
 Here is a video demonstrating how the app works and its features:
-[![App Demo Video](http://img.youtube.com/vi/URL/0.jpg)](http://www.youtube.com/watch?v=URL)
+[![App Demo Video](https://github.com/feraco/Stress-Trem-Test/video.mp4)
 
 ### Tremor Test
 - **Objective**: To measure anxiety levels through the analysis of hand tremors.
